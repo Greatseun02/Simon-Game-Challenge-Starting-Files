@@ -7,4 +7,4 @@ Through jQuery, I gained proficiency in accessing elements without relying heavi
 
 Overall, this project was instrumental in my journey to master jQuery and further strengthen my JavaScript skills.
 
-It required a keyboard to start the game.
+It requires a keyboard to start the game.
